@@ -17,3 +17,5 @@ for liczba in podzielne:
     szesciany.append(wynik)
 
 print(szesciany)
+
+print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona")
